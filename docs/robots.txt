@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bitznet-cloud.github.io/BitzNet/sitemap.xml
