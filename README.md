@@ -3,7 +3,7 @@
 **最后更新时间：** 2025年
 
 **Bitz Net 官网入口：**
-> 🚀 **[点击直达 Bitz Net 最新官网 (getbitznet.com)](https://dir3.bnaffloop.com/#/register?code=KvAcbtC6)**  
+> 🚀 **[点击直达 Bitz Net 最新官网 (getbitznet.com)](https://red.bnaffred.com/#/register?code=KvAcbtC6)**  
 > *新用户注册即送 24小时/5GB 免费试用流量*
 
 **备用防失联地址：**
