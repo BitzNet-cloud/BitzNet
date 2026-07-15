@@ -2,7 +2,7 @@
   <img src="docs/assets/logo-clr.png" alt="Bitz Net" width="190">
 </p>
 
-# Bitz Net 机场评测：2026 稳定高速的跨境网络加速服务
+# Bitz Net 机场官网：2026 稳定高速的跨境网络加速服务
 
 **最后更新时间：** 2026 年
 
