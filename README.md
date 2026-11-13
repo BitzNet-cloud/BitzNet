@@ -13,7 +13,7 @@ Bitz Net 面向跨境访问、远程办公、海外流媒体、学术资料查�
 | 类型 | 地址 | 说明 |
 | --- | --- | --- |
 | 最新官网 | [getbitznet.com 注册入口](https://red.bnaffred.com/#/register?code=KvAcbtC6) | 新用户注册后可体验 24 小时 / 5 GB 免费试用 |
-| 备用入口 | [Bitz Net 备用镜像站](https://gobitznet.com/aff=KvAcbtC6) | 主站不可访问时可尝试备用入口 |
+| 备用入口 | [Bitz Net 备用镜像站](https://red.bnaffred.com/#/register?code=KvAcbtC6) | 主站不可访问时可尝试备用入口 |
 | 产品介绍页 | [Bitz Net 完整介绍](https://bitznet-cloud.github.io/BitzNet/) | 查看产品亮点、套餐参考和常见问题 |
 
 ## Bitz Net 是什么
